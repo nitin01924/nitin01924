@@ -2,8 +2,7 @@
 🔭 I’m currently working on Note-webapp<br>🤝 I’m looking for help with a good frontend<br>🌱 I’m currently learning MERN<br>
 
 ---
-[![](https://komarev.com/ghpvc/?username=nitin01924&icon=1&color=0)](https://visitcount.itsvg.in)
-
+[![](https://komarev.com/ghpvc/?username=nitin01924&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/nitin01924)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-kumar-a9609a2b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitin981275@gmail.com) 
