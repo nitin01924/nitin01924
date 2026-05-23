@@ -1,22 +1,13 @@
-# 👋 Hey, I'm Nitin
+# Hey, I'm Nitin 👋
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-💻 BCA Student & Full Stack Web Development Learner  
-🚀 Currently building real-world MERN stack projects  
-🌱 Exploring scalable backend systems & clean frontend architecture  
-⚡ Interested in Web Development, UI/UX, Performance Optimization & Tech  
-🎯 Goal: Becoming a professional full-stack developer within the next few years  
+💻 BCA Student & MERN Stack Learner  
+🚀 Currently building a Full Stack Notes Web App  
+🌱 Learning Backend Development & Scalable Web Applications  
+⚡ Interested in Web Development, UI/UX & Modern Technologies  
 
 ---
 
 [![](https://komarev.com/ghpvc/?username=nitin01924&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/nitin01924)
-
-<p align="left">
-  <a href="https://github.com/nitin01924?tab=followers">
-    <img src="https://img.shields.io/github/followers/nitin01924?label=Followers&style=social" alt="followers"/>
-  </a>
-</p>
 
 ---
 
@@ -53,5 +44,31 @@
 
 ---
 
+# 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nitin01924&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin01924&theme=tokyonight&hide_border=true" height="180"/> </p>
+![](https://github-readme-stats.vercel.app/api?username=nitin01924&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=nitin01924&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin01924&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=nitin01924&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 📌 Current Focus
+
+- Building Real World MERN Projects
+- Learning Backend Architecture
+- Improving Frontend Skills
+- Exploring Modern Web Technologies
+
+---
+
+## ⚡ Fun Fact
+
+I like building things that are both functional and visually clean.
