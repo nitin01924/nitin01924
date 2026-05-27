@@ -69,6 +69,8 @@
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-I like building things that are both functional and visually clean.
+### ❤️ by Nitin Kumar
+
+</div>
