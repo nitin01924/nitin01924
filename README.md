@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://wa.me/9817506079">
-<img align="center" src="https://skillicons.dev/icons?i=twitter" height="45" width="45" />
+<img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45" width="45" />
 </a>
 </p>
 
