@@ -21,6 +21,10 @@
 <a href="mailto:nitin981275@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" width="45" />
 </a>
+
+<a href="https://wa.me/9817506079">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="45" width="45" />
+</a>
 </p>
 
 ---
