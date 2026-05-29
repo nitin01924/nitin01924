@@ -58,11 +58,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=nitin01924&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
 
 ## 📌 Current Focus
 
