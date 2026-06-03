@@ -43,8 +43,10 @@
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,nodemon"
+  alt="Git, GitHub, VS Code, Postman, NPM, Nodemon"
+/></p>
 
 ---
 
