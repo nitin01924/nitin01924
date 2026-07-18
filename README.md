@@ -1,10 +1,19 @@
 # Hey, I'm Nitin 👋
 
-🎓 BCA Graduate & MERN Stack Developer  
-🚀 Built and deployed a Full Stack Notes Web App (completed)
-🎨 Currently working on DesignFlow — a web-based editor (Canva-like)
-🌱 Improving backend architecture and scalable systems
-⚡ Interested in Web Development, UI/UX & Modern Technologies
+🎓  
+BCA Graduate & MERN Stack Developer
+
+🚀  
+Built and deployed a Full Stack Notes Web App (completed)
+
+🎨  
+Currently working on DesignFlow — a web-based editor (Canva-like)
+
+🌱  
+Improving backend architecture and scalable systems
+
+⚡  
+Interested in Web Development, UI/UX & Modern Technologies
 
 ---
 
