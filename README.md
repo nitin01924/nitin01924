@@ -1,9 +1,10 @@
 # Hey, I'm Nitin 👋
 
-💻 BCA Student & MERN Stack Learner  
-🚀 Currently building a Full Stack Notes Web App  
-🌱 Learning Backend Development & Scalable Web Applications  
-⚡ Interested in Web Development, UI/UX & Modern Technologies  
+🎓 BCA Graduate & MERN Stack Developer  
+🚀 Built and deployed a Full Stack Notes Web App (completed)
+🎨 Currently working on DesignFlow — a web-based editor (Canva-like)
+🌱 Improving backend architecture and scalable systems
+⚡ Interested in Web Development, UI/UX & Modern Technologies
 
 ---
 
@@ -33,7 +34,7 @@
 
 ### 🚀 Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -43,10 +44,8 @@
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,nodemon"
-  alt="Git, GitHub, VS Code, Postman, NPM, Nodemon"
-/></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,npm,nodemon" alt="Git, GitHub, VS Code, Postman, Vercel, Render, NPM, Nodemon" />
+</p>
 
 ---
 
@@ -60,13 +59,20 @@
 
 ---
 
+## 📌 Recent Updates
+
+- Notes Web App: completed and deployed (frontend on Vercel, backend on Render)
+- DesignFlow: active development — building a Canva-like web editor
+- BCA: degree completed
+
+---
 
 ## 📌 Current Focus
 
-- Building Real World MERN Projects
-- Learning Backend Architecture
-- Improving Frontend Skills
-- Exploring Modern Web Technologies
+- Maintaining and improving the Notes Web App
+- Building DesignFlow (UI editor / design tools)
+- Strengthening backend architecture and deployment workflows
+- Improving UI/UX and component-driven frontend
 
 ---
 
