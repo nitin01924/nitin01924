@@ -53,7 +53,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=nitin01924&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=nitin01924&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nitin01924&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin01924&theme=tokyonight&hide_border=true&layout=compact)
 
