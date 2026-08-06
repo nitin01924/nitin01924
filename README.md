@@ -27,10 +27,10 @@
 <img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" height="45" width="45" />
 </a>
 
-<!-- Portfolio link added -->
+<!-- Portfolio button added -->
 
-<a href="https://portfolio-three-steel-ps6rqrl36s.vercel.app/" target="_blank">
-[Portfolio](https://portfolio-three-steel-ps6rqrl36s.vercel.app/)
+<a href="https://portfolio-three-steel-ps6rqrl36s.vercel.app/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
 </a>
 
 </p>
