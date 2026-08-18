@@ -33,6 +33,12 @@
   <img align="center" src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=vercel" alt="Portfolio" height="45" />
 </a>
 
+<!-- Resume button added -->
+
+<a href="https://portfolio-three-steel-ps6rqrl36s.vercel.app/assets/NITIN_RESUME-Bnq5eIxB.pdf" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobe" alt="Resume" height="45" />
+</a>
+
 </p>
 
 ---
