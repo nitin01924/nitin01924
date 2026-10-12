@@ -2,7 +2,6 @@
 
 🎓  BCA Graduate & MERN Stack Developer <br>
 🚀  Built and deployed a Full Stack Notes Web App (completed) <br>
-🎨  Currently working on DesignFlow — a web-based editor (Canva-like) <br>
 🌱  Improving backend architecture and scalable systems <br>
 ⚡  Interested in Web Development, UI/UX & Modern Technologies
 
