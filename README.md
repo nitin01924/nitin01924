@@ -1,7 +1,5 @@
 # Hey, I'm Nitin 
 
-🎓  BCA Graduate & MERN Stack Developer <br>
-🚀  Built and deployed a Full Stack Notes Web App (completed) <br>
 🌱  Improving backend architecture and scalable systems <br>
 ⚡  Interested in Web Development, UI/UX & Modern Technologies
 
@@ -75,14 +73,12 @@
 
 - Notes Web App: completed and deployed (frontend on Vercel, backend on Render)
 - DesignFlow: active development — building a Canva-like web editor
-- BCA: degree completed
 
 ---
 
 ## 🧧 Current Focus
 
 - Maintaining and improving the Notes Web App
-- Building DesignFlow (UI editor / design tools)
 - Strengthening backend architecture and deployment workflows
 - Improving UI/UX and component-driven frontend
 
